@@ -1,0 +1,23 @@
+{
+  "name": "mini-project-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austinzumbro/mini-project-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/austinzumbro/mini-project-node/issues"
+  },
+  "homepage": "https://github.com/austinzumbro/mini-project-node#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
